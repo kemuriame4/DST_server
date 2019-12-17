@@ -1,7 +1,7 @@
 #!/bin/bash
 steamcmd_dir="$HOME/steamcmd"
 install_dir="$HOME/DSTserver"
-cluster_name="Documents"
+cluster_name="DST_MAIN"
 cd "$install_dir/bin"
 
 run_shared=(./dontstarve_dedicated_server_nullrenderer)
